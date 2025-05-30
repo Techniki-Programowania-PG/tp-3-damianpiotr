@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Using https://github.com/github/gitignore/blob/master/Python.gitignore
 
 # Byte-compiled / optimized / DLL files
@@ -142,3 +143,37 @@ cython_debug/
 
 _skbuild/
 .pyodide-xbuildenv/
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 5c7e711ce96f26b4f71a20b5161b9f9c85b05684
